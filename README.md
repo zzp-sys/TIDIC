@@ -1,1 +1,1 @@
-# An Efficient Image Clustering Method Integrating Text Semantic Information
+# An Efficient Method for Image Clustering by Integrating Text Semantic Information
